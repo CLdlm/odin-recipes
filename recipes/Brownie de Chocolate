@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receta de Brownies de Chocolate</title>
+</head>
+<body>
+    <h1>Brownies de Chocolate</h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFoV8kdr-Om0O8YmJxM8fuqnKTC2NpZFpG_8_6ZCViLw&s=10" alt="Brownies de chocolate">
+    <h2>Descripción</h2>
+    <p>El brownie es un postre clásico de la repostería estadounidense. Se caracteriza por ser un bizcocho de chocolate espeso, tierno y húmedo por dentro, con una fina capa crujiente en la parte superior.</p>
+    <p>Es un dulce irresistible para los amantes del chocolate. Lo mejor de todo es que es increíblemente fácil y rápido de preparar, ideal para acompañar con una bola de helado de vainilla.</p>
+    <h2>Ingredientes</h2>
+    <ul>
+        <li>200g de chocolate para derretir (mínimo 50% cacao)</li>
+        <li>110g de mantequilla</li>
+        <li>4 huevos grandes</li>
+        <li>200g de azúcar</li>
+        <li>85g de harina de trigo común</li>
+        <li>1 cucharadita de extracto de vainilla</li>
+        <li>Una pizca de sal</li>
+    </ul>
+    <h2>Pasos</h2>
+    <ol>
+        <li>Precalienta el horno a 180°C (350°F) y engrasa un molde cuadrado con un poco de mantequilla y harina (o fórralo con papel de horno).</li>
+        <li>Coloca el chocolate troceado y la mantequilla en un bol. Derrítelos juntos en el microondas en intervalos de 30 segundos o al baño María, mezclando bien hasta que quede una crema suave. Deja templar.</li>
+        <li>En un bol grande, bate los huevos junto con el azúcar y el extracto de vainilla hasta que la mezcla blanquee un poco y doble su volumen.</li>
+        <li>Incorpora el chocolate derretido con la mantequilla al bol de los huevos y mezcla con movimientos suaves.</li>
+        <li>Tamiza la harina y la pizca de sal sobre la mezcla. Integra todo con una espátula realizando movimientos envolventes justo hasta que no queden restos de harina (no batas de más).</li>
+        <li>Vierte la masa en el molde preparado de manera uniforme y hornea durante unos 20 o 25 minutos. El interior debe quedar húmedo.</li>
+        <li>Deja enfriar completamente antes de desmoldar y cortarlo en cuadrados individuales.</li>
+    </ol>
+    <p><a href="../index.html">Volver al Inicio</a></p>
+</body>
+</html>
